@@ -1,0 +1,14 @@
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\bin\Debug\Portal.IO.exe.config
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\bin\Debug\Portal.IO.exe
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\bin\Debug\Portal.IO.pdb
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\obj\Debug\Portal.IO.csproj.AssemblyReference.cache
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\obj\Debug\Portal.IO.Form1.resources
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\obj\Debug\Portal.IO.Properties.Resources.resources
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\obj\Debug\Portal.IO.csproj.GenerateResource.cache
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\obj\Debug\Portal.IO.csproj.CoreCompileInputs.cache
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\obj\Debug\Portal.IO.exe
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\obj\Debug\Portal.IO.pdb
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\bin\Debug\Portal.IO.exe.manifest
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\bin\Debug\Portal.IO.application
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\obj\Debug\Portal.IO.exe.manifest
+C:\Users\Hisam\Desktop\Project Desktop\Project\Portal.IO\Portal.IO\obj\Debug\Portal.IO.application
